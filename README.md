@@ -76,7 +76,7 @@ streamlit run PhonePe_dashboard.py
 
 ## 🌐 Live App
 
-👉 **[Click here to try the live dashboard](https://phonepe-transaction-insights.streamlit.app)**
+👉 **[Click here](https://phonepe-transaction-insights.streamlit.app)**
 
 ---
 
