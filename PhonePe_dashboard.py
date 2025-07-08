@@ -926,7 +926,7 @@ def render_home():
 
 # -- Layout Helper
 def render_category_page(title_str):
-    title, _, btn1, btn2 = st.columns([5, 3, 1, 1], vertical_alignment="bottom")
+    title, _, btn1, btn2 = st.columns([6, 2, 1, 1], vertical_alignment="bottom")
     title.title(title_str)
     if btn1.button("Country", use_container_width=True):
         st.session_state.view = "Country"
